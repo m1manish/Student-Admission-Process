@@ -1,2 +1,1 @@
-print("College name is JSS POLYTECHNIC")
-aa
+print("helo")
